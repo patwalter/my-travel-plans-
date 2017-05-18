@@ -40,6 +40,9 @@ body {
     text-align: center;
 }
 
+.destination h2 {
+    transform: rotate: (0 deg);
+}
 h2 {
     margin: 0;
     transform: rotate(-45deg);
